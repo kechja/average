@@ -15,8 +15,8 @@ point numbers are not supported.
   ```
 
  ## Installation
-Clone or copy to your local drive. 
-`cd` into the average folder.
-Set permissions using `chmod +x average`.
-Move using `sudo mv average /usr/local/bin/`  
-Open a new window and you're good to go.
+Clone or copy to your local drive.   
+`cd` into the average folder.  
+Set permissions using `chmod +x average`.  
+Move using `sudo cp average /usr/local/bin/`    
+Open a new window and you're good to go.  
